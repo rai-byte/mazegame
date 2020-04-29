@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Maze
+comment1.params=theWidth\ theHeight
+comment1.target=Maze(int,\ int)
+comment10.params=col\ row\ go
+comment10.target=void\ moveContents(int,\ int,\ GameObject)
+comment11.params=go\ dir
+comment11.target=void\ move(GameObject,\ java.lang.String)
+comment2.params=theBoard
+comment2.target=Maze(Room[][])
+comment3.params=col\ row\ r
+comment3.target=void\ setRoom(int,\ int,\ Room)
+comment4.params=col\ row
+comment4.target=Room\ getRoom(int,\ int)
+comment5.params=col\ row\ dir
+comment5.target=boolean\ possible(int,\ int,\ java.lang.String)
+comment6.params=go\ dir
+comment6.target=boolean\ possible(GameObject,\ java.lang.String)
+comment7.params=col\ row\ contentsType\ contents
+comment7.target=void\ setContents(int,\ int,\ java.lang.String,\ GameObject)
+comment8.params=go
+comment8.target=void\ setContents(GameObject)
+comment9.params=col\ row\ contentsType\ contents
+comment9.target=void\ moveContents(int,\ int,\ java.lang.String,\ GameObject)
+numComments=12

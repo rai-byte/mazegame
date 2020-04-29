@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Room
+comment1.params=
+comment1.target=Room()
+comment2.params=all
+comment2.target=Room(boolean)
+comment3.params=ud\ lr
+comment3.target=Room(boolean,\ boolean)
+comment4.params=u\ d\ l\ r
+comment4.target=Room(boolean,\ boolean,\ boolean,\ boolean)
+comment5.params=contentsType\ contents
+comment5.target=void\ setContents(java.lang.String,\ GameObject)
+comment6.params=
+comment6.target=java.lang.String\ contents()
+numComments=7

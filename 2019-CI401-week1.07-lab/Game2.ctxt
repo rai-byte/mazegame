@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Game2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ makeGame()
+comment4.params=
+comment4.target=void\ gameLoop()
+comment5.params=
+comment5.target=void\ checkGameOver()
+comment6.params=
+comment6.target=void\ updateTreasure()
+comment7.params=
+comment7.target=void\ updateZombie()
+comment8.params=millisecs
+comment8.target=void\ snooze(int)
+numComments=9
